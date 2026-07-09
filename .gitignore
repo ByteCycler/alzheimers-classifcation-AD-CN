@@ -1,0 +1,27 @@
+# datasets and large MRI files
+*.zip
+split/
+*.nii
+*.nii.gz
+
+# model weights
+*.pth
+*.pt
+
+# python and environment stuff
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# colab/jupyter checkpoints
+.ipynb_checkpoints/
+
+# local logs
+training_log.txt
+
+# OS junk files
+.DS_Store
+Thumbs.db
