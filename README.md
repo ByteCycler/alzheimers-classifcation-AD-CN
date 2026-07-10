@@ -73,8 +73,8 @@ Below are the training vs. validation curves for the 3D Dual Attention Model (DA
     <td align="center"><b>DAM Loss</b></td>
   </tr>
   <tr>
-    <td><img src="results/dam_accuracy.png" width="400"></td>
-    <td><img src="results/dam_loss.png" width="400"></td>
+    <td><img src="results/DAM_accuracy.png" width="400"></td>
+    <td><img src="results/DAM_loss.png" width="400"></td>
   </tr>
 </table>
 
