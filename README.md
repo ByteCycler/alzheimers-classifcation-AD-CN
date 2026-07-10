@@ -67,9 +67,16 @@ Building 3D convolutional models for medical imaging involves handling massive p
 ### Model Training Analysis
 Below are the training vs. validation curves for the 3D Dual Attention Model (DAM):
 
-| DAM Accuracy | DAM Loss |
-| :---: | :---: |
-| ![DAM Accuracy](results/dam_accuracy.png) | ![DAM Loss](results/dam_loss.png) |
+<table>
+  <tr>
+    <td align="center"><b>DAM Accuracy</b></td>
+    <td align="center"><b>DAM Loss</b></td>
+  </tr>
+  <tr>
+    <td><img src="results/dam_accuracy.png" width="400"></td>
+    <td><img src="results/dam_loss.png" width="400"></td>
+  </tr>
+</table>
 
 *(You can also view the Ensemble and ResNet18 performance graphs in the `results/` directory).*
 
