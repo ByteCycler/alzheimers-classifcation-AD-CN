@@ -6,7 +6,7 @@ The project explores complex deep learning architectures to process `.nii` medic
 
 ---
 
-## 🧠 Data & Preprocessing
+##  Data & Preprocessing
 
 Working with volumetric MRI data requires specialized preprocessing. This project approaches the 3D data in two different ways depending on the model architecture:
 
@@ -17,7 +17,7 @@ Working with volumetric MRI data requires specialized preprocessing. This projec
 
 ---
 
-## 🏗️ Architectures Explored
+##  Architectures Explored
 
 This repository is split into three main modeling approaches:
 
@@ -38,7 +38,7 @@ The flagship architecture of this project. A highly complex 3D Convolutional Neu
 
 ---
 
-## ⚙️ Installation & Usage
+##  Installation & Usage
 
 1. **Clone the repository:**
    ```bash
@@ -60,7 +60,7 @@ The flagship architecture of this project. A highly complex 3D Convolutional Neu
 
 ---
 
-## 📊 Results & Known Limitations
+##  Results & Known Limitations
 
 Building 3D convolutional models for medical imaging involves handling massive parameter counts. While the custom architectures successfully compile, extract features, and process the full 3D spatial context, the current training iterations demonstrate a classic deep learning challenge: **overfitting**.
 
